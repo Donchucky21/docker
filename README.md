@@ -1,4 +1,4 @@
-# TalentBridge Docker Setup
+# TalentBridge App Docker Setup
 
 This package contains the updated frontend theme, a frontend Dockerfile, a backend Dockerfile, and one root `docker-compose.yml` that starts the services in this order:
 
